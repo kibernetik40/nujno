@@ -2,5 +2,5 @@
 $host = "db";
 $user = "root";
 $pass = "123456";
-$database = "test";
+$database = "testDB";
 ?>
